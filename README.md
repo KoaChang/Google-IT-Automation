@@ -14,7 +14,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-This repository holds all 6 certificates that show I am Google-IT certified. 
+This repository holds all 6 certificates that show I am Google-IT certified. It also includes all projects for the final(6th) course of the certification.
 
 #### Technologies
 
